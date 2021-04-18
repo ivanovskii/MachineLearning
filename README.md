@@ -9,6 +9,7 @@
 2. [The Boston Housing dataset и метод линейной регрессии][2.2.1] [**[Jupyter Notebook]**][2.2.2] [**[HTML]**][2.2.3]
 3. [База данных образцов рукописного написания цифр MNIST и метод k-ближайших соседей][2.3.1] [**[Jupyter Notebook]**][2.3.2] [**[HTML]**][2.3.3] \
 Скачайте [отсюда][2.3.4] [требуется регистрация] или [отсюда][2.3.5] тренировочную и тестовую части датасета, поместите в папку `./data`
+4. [Extended Boston dataset, Ridge и Lasso регрессии][2.4.1] [**[Jupyter Notebook]**][2.4.2] [**[HTML]**][2.4.3]
 
 
 
@@ -44,3 +45,8 @@
 [2.3.3]: https://nbviewer.jupyter.org/github/ivanovskii/MachineLearning-Subject/blob/main/notebooks/tasks/%E2%84%963/%E2%84%963.html
 [2.3.4]: https://www.kaggle.com/oddrationale/mnist-in-csv
 [2.3.5]: https://drive.google.com/drive/folders/18sSDOlcoxG8witUyMRsB0mAuxPl4n5QQ
+
+<!--- №4 -->
+[2.4.1]: https://github.com/ivanovskii/MachineLearning-Subject/tree/main/notebooks/tasks/%E2%84%964
+[2.4.2]: https://nbviewer.jupyter.org/github/ivanovskii/MachineLearning-Subject/blob/main/notebooks/tasks/%E2%84%964/%E2%84%964.ipynb
+[2.4.3]: https://nbviewer.jupyter.org/github/ivanovskii/MachineLearning-Subject/blob/main/notebooks/tasks/%E2%84%964/%E2%84%964.html
