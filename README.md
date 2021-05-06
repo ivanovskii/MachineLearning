@@ -10,6 +10,8 @@
 3. [База данных образцов рукописного написания цифр MNIST и метод k-ближайших соседей][2.3.1] [**[Jupyter Notebook]**][2.3.2] [**[HTML]**][2.3.3] \
 Скачайте [отсюда][2.3.4] [требуется регистрация] или [отсюда][2.3.5] тренировочную и тестовую части датасета, поместите в папку `./data`
 4. [Extended Boston dataset, Ridge и Lasso регрессии][2.4.1] [**[Jupyter Notebook]**][2.4.2] [**[HTML]**][2.4.3]
+5. [Реализация метода k-ближайших соседей, проверка на The Street View House Numbers (SVHN) dataset][2.4.1] [**[Jupyter Notebook]**][2.4.2] [**[HTML]**][2.4.3] \
+Скачайте [тренировочную][2.1.4] и [тестовую][2.1.5] части датасета, поместите в папку `./data`
 
 
 
@@ -50,3 +52,8 @@
 [2.4.1]: https://github.com/ivanovskii/MachineLearning-Subject/tree/main/notebooks/tasks/%E2%84%964
 [2.4.2]: https://nbviewer.jupyter.org/github/ivanovskii/MachineLearning-Subject/blob/main/notebooks/tasks/%E2%84%964/%E2%84%964.ipynb
 [2.4.3]: https://nbviewer.jupyter.org/github/ivanovskii/MachineLearning-Subject/blob/main/notebooks/tasks/%E2%84%964/%E2%84%964.html
+
+<!--- №5 -->
+[2.5.1]: https://github.com/ivanovskii/MachineLearning-Subject/tree/main/notebooks/tasks/%E2%84%965
+[2.5.2]: https://nbviewer.jupyter.org/github/ivanovskii/MachineLearning-Subject/blob/main/notebooks/tasks/%E2%84%965/KNN.ipynb
+[2.5.3]: https://nbviewer.jupyter.org/github/ivanovskii/MachineLearning-Subject/blob/main/notebooks/tasks/%E2%84%965/KNN.html
